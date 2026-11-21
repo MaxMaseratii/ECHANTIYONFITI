@@ -1,0 +1,9 @@
+symbol,yahoo_ticker,description,asset_class
+ES,ES=F,E-mini S&P 500 Futures,index_futures
+NQ,NQ=F,E-mini Nasdaq-100 Futures,index_futures
+MNQ,MNQ=F,Micro E-mini Nasdaq-100 Futures,index_futures
+MES,MES=F,Micro E-mini S&P 500 Futures,index_futures
+YM,YM=F,E-mini Dow Jones Industrial Average Futures,index_futures
+RTY,RTY=F,E-mini Russell 2000 Futures,index_futures
+GC,GC=F,Gold Futures,commodity_futures
+CL,CL=F,WTI Crude Oil Futures,commodity_futures
